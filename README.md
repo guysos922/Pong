@@ -28,7 +28,7 @@
 
 ## Overview
 
-![](upload_images_gif.gif)
+![](Pong.gif)
 
 
 ### Built With
