@@ -1,15 +1,13 @@
-<!-- Please update value in the {}  -->
-
-<h1 align="center">simple tic tac toe game</h1>
+<h1 align="center">A Game Of Pong</h1>
 
 
 <div align="center">
   <h3>
-    <a href="https://xogame.onrender.com/">
+    <a href="https://pong-24vv.onrender.com/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/guysos922/X-O-GAME.git">
+    <a href="https://github.com/guysos922/Pong.git">
       Solution
     </a>
   </h3>
@@ -41,18 +39,18 @@
 
 ## Features
 
-simple tic tac toe game built on js frontend only
+simple pong game built by js and js canvas
 
 
 ## How To Use
 
-tic tac toe game xD
+Dont let the ball touch your side of the field
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/guysos922/X-O-GAME.git
+$ git clone https://github.com/guysos922/Pong.git
 
 # Install dependencies
 $ npm install
